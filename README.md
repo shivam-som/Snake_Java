@@ -1,8 +1,8 @@
+![snaketitle](https://user-images.githubusercontent.com/71941738/147540077-0a19621f-70a1-4069-86c4-7df2c957b638.jpg)
+
 This is a Snake game using Java.
 
 This consists of some images like: 
-
-![snaketitle](https://user-images.githubusercontent.com/71941738/147540077-0a19621f-70a1-4069-86c4-7df2c957b638.jpg)
 
 ![rightmouth](https://user-images.githubusercontent.com/71941738/147540072-f3813544-847e-4122-9e2c-cd029cdd3b50.png)
 
